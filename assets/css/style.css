@@ -1,0 +1,20 @@
+.masthead {
+  background-color: black;
+  text-align: center;
+  padding-top: 0px;
+}
+.headline {
+  font-size: 32px;
+  color: #2257ac;
+  font-family: 'Sedgwick Ave', cursive;
+  margin-top: 25px;
+  margin-bottom: -35px;
+}
+body {
+  /*background-image: url("./../images/outerspace.jpg");*/
+  background-color: black;
+}
+h5 {
+text-align: center;
+color: #2257ac;
+}
